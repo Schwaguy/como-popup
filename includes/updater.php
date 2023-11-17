@@ -17,7 +17,7 @@ class fxUpdater_comopopup_Updater{
 			'server'  => 'https://comocreative.com/',
 			'type'    => 'plugin',
 			'id'      => 'como-popup/como-popup.php',
-			'api'     => '1.0.1',
+			'api'     => '1.0.2',
 			'post'    => array(),
 		);
 

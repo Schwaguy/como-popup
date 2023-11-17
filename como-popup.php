@@ -3,7 +3,7 @@
 /*
 Plugin Name: Como Popup
 Plugin URI: http://www.comocreative.com/
-Version: 1.0.1
+Version: 1.0.2
 Author: Como Creative LLC
 Description: Plugin designed for easy Popup Modal Messages.  If using shortcode: [comopopup popupid=ID template=TEMPLATE NAME autopop=TRUE/FALSE buttontext='' buttonclass='']
 */
